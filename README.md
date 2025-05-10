@@ -18,6 +18,5 @@ Developed feedback mechanisms to ensure stability and accurate tracking under va
 Demonstrated how vision-based robotics can be used in industrial automation, sports tech, and interactive robotics.
 
 Enhanced understanding of image processing, robotic locomotion, and hardware-software integration.
-
 This project showcases a practical application of computer vision and robotics, building the foundation for more complex systems such as autonomous vehicles, robotic assistants, and AI-driven surveillance bots.
 
